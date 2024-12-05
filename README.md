@@ -5,7 +5,7 @@ This project focuses on cleaning and preprocessing data science job postings fro
 
 ---
 
-![Glassdoor Dataset](https://example.com/path-to-image.jpg)  *(Replace with an appropriate image)*
+![Glassdoor Dataset](https://github.com/Naveennnkumar-Bit/Glassdoor-Data-Science-Jobs-Tranformation_Python/blob/main/GD.jpg)
 
 ---
 
